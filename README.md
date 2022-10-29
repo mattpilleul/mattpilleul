@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on something **very secret !**<br>I'm currently learning new technologies about Web3.<br>Ask me about my work by email : [matthieu.pilleul@epitech.eu](mailto:matthieu.pilleul@epitech.eu)
+👨‍💻&nbsp;&nbsp;I'm currently working on something **very secret !**<br>💸&nbsp;&nbsp;I'm currently learning new technologies about Web3.<br>ℹ️&nbsp;&nbsp;Ask me about my work by email : [matthieu.pilleul@epitech.eu](mailto:matthieu.pilleul@epitech.eu)
 
 
 ## 🌐 Socials:
